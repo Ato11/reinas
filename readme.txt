@@ -23,4 +23,5 @@ campo = 0
 /*   FUENTES:   */
 https://kripkit.com/puzzle-de-las-ocho-reinas/
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
+https://www.programmingalgorithms.com/algorithm/n-queen-problem/php/
 
